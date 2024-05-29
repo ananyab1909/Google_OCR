@@ -35,6 +35,5 @@ If you would like to contribute to this project, you can do so by creating a [PR
     - Instagram : https://instagram.com/thegraffiti.mind/
     - Github : https://github.com/ananyab1909/
 
- ## Under Development !
 
 
