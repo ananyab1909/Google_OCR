@@ -5,7 +5,7 @@ A simple implementation of Google CLoud Vision API to perform Optical Character 
 1. Detects Text from __HANDWRITING__.
 2. Able to detect __LOGOS__ from image.
 3. Can detect __LABELS__ from an image.
-4. 3. Can detect __TEXT__ from an image.
+4. Can detect __TEXT__ from an image.
 
 
 ## Getting Started
